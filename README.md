@@ -8,3 +8,5 @@ male-male jumper wires.
 The reason SD card is used to play music is because an alternate source of power
 supply can be used to power the Arduino and the music will be played without
 the computer being connected to the board.
+There is a simple verson of this project where tunes can be played without the SD card
+reader, but the tunes are simple.
